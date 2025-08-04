@@ -26,12 +26,19 @@ A modern note-taking application built using **React**, **Vite**, and **Material
 ## 📂 Project Structure
 
 src/
+
 ├── components/
+
 │ ├── Note.jsx
+
 │ ├── NoteList.jsx
+
 │ └── CreateNote.jsx
+
 ├── App.jsx
+
 ├── index.css
+
 └── main.jsx
 
 
